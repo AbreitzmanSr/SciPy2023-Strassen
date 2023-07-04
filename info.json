@@ -1,0 +1,12 @@
+{
+    "authors": [
+        {
+            "name": "Anthony Breitzman",
+            "affiliation": "Rowan University",
+            "orcid": "0000-0001-9522-9980"
+        }
+    ],
+    "title": "A Modified Strassen Algorithm to Accelerate Numpy Large Matrix Multiplication with Integer Entries
+",
+    "description": "Strassen's algorithm is a divide and conquer matrix multiplication method that is mostly of theoretical interest.  In this project we show that combining Strassen's algorithm with Numpy.matmul speeds up the latter in cases of large matrices (those exceeding 128 rows or columns) with integer entries."
+}
